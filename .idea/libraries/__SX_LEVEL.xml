@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="[等级]SX-LEVEL">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/[等级]SX-LEVEL.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="[世界等级]WorldLevel">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/[世界等级]WorldLevel.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
